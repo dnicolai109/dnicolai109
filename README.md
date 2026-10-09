@@ -25,7 +25,7 @@ My academic and professional experience includes:
 - **TemoRETT:** Development of a web-based training application
 - **WebAssembly Performance Evaluation:** MPEG-DASH parsing performance analysis
 - **WebTD Artifact Analysis:** Data analysis using Jupyter Notebook
-- **Bachelor's Thesis:** On the quality of Bone-Conduction-Transducers
+- **Bachelor's Thesis:** On the quality of binaural reproduction of Bone-Conduction-Transducers
 
 📂 Explore my [Project Portfolio](https://github.com/dnicolai109/project-portfolio).
 
