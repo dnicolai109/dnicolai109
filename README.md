@@ -8,28 +8,24 @@
 
 I am a Media Technology master's student at TU Berlin with practical experience in software development at Fraunhofer HHI.
 
-My technical background includes web application development, Python, databases, and multimedia technologies.
-
-I am particularly interested in the intersection of IT systems, information security, privacy, and IT governance.
+My technical background includes web application development, Python, databases, and multimedia technologies. I'm particularly interested in the intersection of IT systems, information security, privacy, and IT governance.
 
 ## Technical Skills
 
-- **Programming:** Python, C++, JavaScript, Shell
-- **Web Development:** Flask, WebAssembly
+- **Programming:** Python, JavaScript, Shell
+- **Web Development:** Flask
 - **Databases:** MySQL
 - **Tools:** Git, GitHub, Jupyter Notebook
-- **Additional Areas:** Cloud Computing, IT Operations
+- **Additional Areas:** Cloud Computing, IT Operations, Privacy
 
 ## Selected Projects
 
 My academic and professional experience includes:
-
 - **EPSILON:** Web server development using Python, Flask, and MySQL
 - **TemoRETT:** Development of a web-based training application
 - **WebAssembly Performance Evaluation:** MPEG-DASH parsing performance analysis
-- **WebTD Artifact Analysis:** Academic analysis project using Jupyter Notebook
-- **Cloud Computing:** University assignment involving Shell
-- **Bachelor's Thesis:** Academic research project
+- **WebTD Artifact Analysis:** Data analysis using Jupyter Notebook
+- **Bachelor's Thesis:** On the quality of Bone-Conduction-Transducers
 
 📂 Explore my [Project Portfolio](https://github.com/dnicolai109/project-portfolio).
 
