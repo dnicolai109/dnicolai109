@@ -23,8 +23,9 @@ My technical background includes web application development, Python, databases,
 My academic and professional experience includes:
 - **EPSILON:** Web server development using Python, Flask, and MySQL
 - **TemoRETT:** Development of a web-based training application
-- **WebAssembly Performance Evaluation:** MPEG-DASH parsing performance analysis
 - **WebTD Artifact Analysis:** Data analysis using Jupyter Notebook
+- **AI Agents in Serverless Computing** – Literature review and taxonomy development
+- **WebAssembly Performance Evaluation:** MPEG-DASH parsing performance analysis
 - **Bachelor's Thesis:** On the quality of binaural reproduction of Bone-Conduction-Transducers
 
 📂 Explore my [Project Portfolio](https://github.com/dnicolai109/project-portfolio).
